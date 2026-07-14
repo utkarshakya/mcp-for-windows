@@ -1,0 +1,10 @@
+# Credentials
+.env
+config.env
+*.local.ps1
+
+# Runtime data
+data/
+
+# Binary (download yourself)
+mcp-auth-proxy.exe
